@@ -1,0 +1,18 @@
+{
+  "deploy_settings": {
+    "default": {
+      "skill_id": "",
+      "was_cloned": false
+      },
+      "resources": {
+        "lambda": [
+          {
+            "handler": "index.handler",
+            "runtime": "nodejs12.x"
+          }
+        ]
+      },
+      "in_skill_products": []
+    }
+  }
+}
