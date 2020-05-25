@@ -5,16 +5,16 @@
         "en-US": {
           "summary": "Sample Short Description",
           "examplePhrases": [
-            "Alexa open account linking template",
-            "Alexa start account linking template",
-            "Alexa run account linking template"
+            "Alexa open template sixteen",
+            "Alexa start template sixteen",
+            "Alexa run template sixteen"
           ],
           "keywords": [
             "keyword1",
             "keyword2",
             "keyword3"
           ],
-          "name": "alexa-account-linking-skill-template",
+          "name": "Template 16 - Account Linking Example",
           "description": "Alexa Account Linking Skill Template",
           "smallIconUri": "https://s3.amazonaws.com/cdn.dabblelab.com/img/skill-template-default-sm.png",
           "largeIconUri": "https://s3.amazonaws.com/cdn.dabblelab.com/img/skill-template-default-lg.png"
